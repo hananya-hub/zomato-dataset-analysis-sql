@@ -89,8 +89,7 @@ Insights derived from SQL analysis include:
 ---
 
 ## 📂 Repository Structure
-
-
+```
 zomato-dataset-analysis-sql/
 │
 ├── data/
@@ -101,9 +100,7 @@ zomato-dataset-analysis-sql/
 │   └── 02_data_analysis.sql
 │
 └── README.md
-
-
-
+```
 ---
 
 ## 📌 Learning Note
@@ -126,9 +123,5 @@ This repository is intended for **learning and portfolio demonstration purposes 
 - **Name**: BRISTA HANANYA  
 - **LinkedIn**: www.linkedin.com/in/bristahananya
 
-
-
 ---
-
-## 📂 Repository Structure
 
